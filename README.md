@@ -1,4 +1,6 @@
-# 2020 - Second Year Comp Sci Student
+I started my Bachelor of compsci halfway through the year of 2019
+
+## 2020-2021 - Second Year Comp Sci Student
 
 * [Android Split Timer](https://github.com/BlaviButcher/AndroidSplitTimer)
   * Timer to keep track of time spent for classes
@@ -17,3 +19,5 @@
 * [Basic UDP Server](https://github.com/BlaviButcher/UDP_Server)
   * A simple UDP server created for an assignment
   * Java
+
+## 2019-2020 First Year Comp Sci Student
