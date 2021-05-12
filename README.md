@@ -12,5 +12,5 @@
   * On inputting a text, will return the scores depending on the different measure of readability and what age the given text is for. 
   * Java
 * [Basic HTTP Server](https://github.com/BlaviButcher/RealHTTPServer)
- * A simple HTTP server created for an assignment
- * Java
+  * A simple HTTP server created for an assignment
+  * Java
