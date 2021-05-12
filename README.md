@@ -14,3 +14,6 @@
 * [Basic HTTP Server](https://github.com/BlaviButcher/RealHTTPServer)
   * A simple HTTP server created for an assignment
   * Java
+* [Basic UDP Server](https://github.com/BlaviButcher/UDP_Server)
+  * A simple UDP server created for an assignment
+  * Java
