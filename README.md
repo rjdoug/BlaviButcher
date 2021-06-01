@@ -1,4 +1,6 @@
-I started my Bachelor of compsci halfway through the year of 2019
+Notes:
+* I started my Bachelor of compsci halfway through the year of 2019
+* This is a work in progress, other noteable projects may not be referenced or legiable ie. good comments and readme included
 
 ## 2020-2021 - Second Year Comp Sci Student
 
