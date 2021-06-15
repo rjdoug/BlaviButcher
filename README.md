@@ -4,7 +4,7 @@ Notes:
 
 ## 2020-2021 - Second Year Comp Sci Student
 * [Project Management Software](https://github.com/BlaviButcher/ProjectManagementSoftware)
-  * Software for software development business to keep track of their projects and employees
+  * Application for software development business to keep track of their projects and employees
 * [Android Split Timer](https://github.com/BlaviButcher/AndroidSplitTimer)
   * Timer to keep track of time spent for classes
 * [Golang Basics](https://github.com/BlaviButcher/headfirstgo)
