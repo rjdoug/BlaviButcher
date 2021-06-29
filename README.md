@@ -25,6 +25,6 @@ Notes:
 
 ## 2019-2020 First Year Comp Sci Student
 * [Pizza Delivery Service](https://github.com/BlaviButcher/PizzaDeliveryService)
-* Assignment that allowed a pizza business to keep track of there ingredients and pizzas
+  * Assignment that allowed a pizza business to keep track of there ingredients and pizzas
   * C#
   * WinForms
