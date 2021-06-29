@@ -12,7 +12,7 @@ Notes:
 * [Image to Ascii](https://github.com/BlaviButcher/imgToAscii)
   * A simple program that converts any image to an ascii image in terminal using GO 
 * [SPACE! The Game](https://github.com/BlaviButcher/AndroidSpaceGame)
-  * An android game create for a class assignment with [jhwz](https://github.com/jhwz)  
+  * An android game created for a class assignment with [jhwz](https://github.com/jhwz)  
 * [Readability Score](https://github.com/BlaviButcher/ReadabilityScore)
   * On inputting a text, will return the scores depending on the different measure of readability and what age the given text is for. 
   * Java
