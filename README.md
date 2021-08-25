@@ -2,6 +2,14 @@ Notes:
 * I started my Bachelor of compsci halfway through the year of 2019
 * This is a work in progress, other noteable projects may not be referenced
 
+## July 2021 - June 2022 - Third Year Comp Sci Student
+* [CV Design and Grid Use](https://github.com/BlaviButcher/compx222-As2-CV-Grid)
+  * Part 1 - Created 3 different cv designs using HTML and CSS
+  * Part 2 - Created gallery with css Grid
+  ### Used:
+  * HTML, CSS, Flexbox, Grid
+
+
 ## July 2020 - June 2021 - Second Year Comp Sci Student
 * [Project Management Software](https://github.com/BlaviButcher/ProjectManagementSoftware)
   * Application for software development business to keep track of their projects and employees
