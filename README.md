@@ -22,6 +22,9 @@ Outputs files with Create and Insert commands to paste into a database to create
 #### Used:
   - golang
 
+## [Svelte - Todo List](https://github.com/BlaviButcher/todo-svelte)
+A very basic todo list I made when learning svelte
+
 
 # July 2020 - June 2021 - Second Year Comp Sci Student
 ## [Project Management Software](https://github.com/BlaviButcher/ProjectManagementSoftware)
