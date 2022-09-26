@@ -7,7 +7,7 @@ Notes:
 
 
 ## [Svelte - Todo List](https://github.com/BlaviButcher/todo-svelte)
-A very basic todo list I made when learning svelte
+A very basic todo list I made when learning svelte.
 #### Used:
 - Svelte
 - Sveltekit
@@ -15,7 +15,7 @@ A very basic todo list I made when learning svelte
 - npm
 
 ## [React - Todo List](https://github.com/BlaviButcher/react-assn3)
-Same idea as the svelte todo list, but more feature heavy
+Same idea as the svelte todo list, but more feature heavy.
 #### Used:
 - React
 - Typescript
