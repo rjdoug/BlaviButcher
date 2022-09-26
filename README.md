@@ -34,6 +34,7 @@ A very basic todo list I made when learning svelte
 Same idea as the svelte todo list, but more feature heavy
 #### Used:
 - React
+- Typescript
 - npm
 
 
