@@ -25,6 +25,9 @@ Outputs files with Create and Insert commands to paste into a database to create
 ## [Svelte - Todo List](https://github.com/BlaviButcher/todo-svelte)
 A very basic todo list I made when learning svelte
 
+## [React - Todo List](https://github.com/BlaviButcher/react-assn3)
+Same idea as the svelte todo list, but more feature heavy
+
 
 # July 2020 - June 2021 - Second Year Comp Sci Student
 ## [Project Management Software](https://github.com/BlaviButcher/ProjectManagementSoftware)
