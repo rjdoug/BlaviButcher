@@ -13,20 +13,28 @@ Notes:
 ## [Restful API](https://github.com/BlaviButcher/restful-assn4/)
 A very basic API created with ExpressJS that interfaced with a database.
   #### Used: 
-  - javascript
-  - expressJS
-  - nodeJS
+  - Javascript
+  - ExpressJS
+  - NodeJS
   - npm
 ## [Static Database Data Generator](https://github.com/BlaviButcher/data-generator)
 Outputs files with Create and Insert commands to paste into a database to create and populate. A bit of a hack job, but it got me quite comfortable with the basics of golang.
 #### Used:
-  - golang
+  - Golang
 
 ## [Svelte - Todo List](https://github.com/BlaviButcher/todo-svelte)
 A very basic todo list I made when learning svelte
+#### Used:
+- Svelte
+- Sveltekit
+- Typescript
+- npm
 
 ## [React - Todo List](https://github.com/BlaviButcher/react-assn3)
 Same idea as the svelte todo list, but more feature heavy
+#### Used:
+- React
+- npm
 
 
 # July 2020 - June 2021 - Second Year Comp Sci Student
