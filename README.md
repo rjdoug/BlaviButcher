@@ -3,24 +3,8 @@ Notes:
 * This is a work in progress, other noteable projects may not be referenced
 
 # July 2021 - June 2022 - Third Year Comp Sci Student
-## [CV Design and Grid Use](https://github.com/BlaviButcher/compx222-As2-CV-Grid)
-  * Part 1 - Created 3 different cv designs using HTML and CSS
-  * Part 2 - Created gallery with css Grid
-  #### Used:
-  * HTML
-  * CSS
-  * Flexbox & Grid
-## [Restful API](https://github.com/BlaviButcher/restful-assn4/)
-A very basic API created with ExpressJS that interfaced with a database.
-  #### Used: 
-  - Javascript
-  - ExpressJS
-  - NodeJS
-  - npm
-## [Static Database Data Generator](https://github.com/BlaviButcher/data-generator)
-Outputs files with Create and Insert commands to paste into a database to create and populate. A bit of a hack job, but it got me quite comfortable with the basics of golang.
-#### Used:
-  - Golang
+
+
 
 ## [Svelte - Todo List](https://github.com/BlaviButcher/todo-svelte)
 A very basic todo list I made when learning svelte
@@ -36,6 +20,27 @@ Same idea as the svelte todo list, but more feature heavy
 - React
 - Typescript
 - npm
+
+## [Restful API](https://github.com/BlaviButcher/restful-assn4/)
+A very basic API created with ExpressJS that interfaced with a database.
+  #### Used: 
+  - Javascript
+  - ExpressJS
+  - NodeJS
+  - npm
+
+## [Static Database Data Generator](https://github.com/BlaviButcher/data-generator)
+Outputs files with Create and Insert commands to paste into a database to create and populate. A bit of a hack job, but it got me quite comfortable with the basics of golang.
+#### Used:
+  - Golang
+
+## [CV Design and Grid Use](https://github.com/BlaviButcher/compx222-As2-CV-Grid)
+  * Part 1 - Created 3 different cv designs using HTML and CSS
+  * Part 2 - Created gallery with css Grid
+  #### Used:
+  * HTML
+  * CSS
+  * Flexbox & Grid
 
 
 # July 2020 - June 2021 - Second Year Comp Sci Student
