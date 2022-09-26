@@ -17,6 +17,10 @@ A very basic API created with ExpressJS that interfaced with a database.
   - expressJS
   - nodeJS
   - npm
+## [Static Database Data Generator](https://github.com/BlaviButcher/data-generator)
+Outputs files with Create and Insert commands to paste into a database to create and populate. A bit of a hack job, but it got me quite comfortable with the basics of golang.
+#### Used:
+  - golang
 
 
 # July 2020 - June 2021 - Second Year Comp Sci Student
