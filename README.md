@@ -6,7 +6,7 @@ Notes:
 ## [CV Design and Grid Use](https://github.com/BlaviButcher/compx222-As2-CV-Grid)
   * Part 1 - Created 3 different cv designs using HTML and CSS
   * Part 2 - Created gallery with css Grid
-  ### Used:
+  #### Used:
   * HTML
   * CSS
   * Flexbox & Grid
